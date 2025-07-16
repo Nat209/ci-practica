@@ -1,1 +1,15 @@
-<h
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento</title>
+</head>
+<body>
+    <h1>Práctica de Integración Continua</h1>
+    <p>Este es un ejemplo de una página HTML para una práctica de integración continua.</
+p>p>
+    <p>La integración continua es una práctica de desarrollo de software donde los cambios en el código se integran y prueban de manera frecuente, lo que ayuda a detectar errores rápidamente y mejora la calidad del software.</p>
+    <p>Para más información, visita la <a href="https://www.atlass      ian.com/es/continuous-integration">página de Atlassian sobre Integración Continua</a>.</p>     
+</body>
+</html>
